@@ -1,6 +1,8 @@
 # AutoShield
 
-This project is an auto bruglary tracker of San Francisco.
+This project is an auto burglary tracker of San Francisco. AutoShield takes data from an SFPD public crime dataset and returns 
+different maps wiith different indvicators of auto burglary in the city. In the source code, both a heatmap and a marker
+cluster map are visualized. .... [Website].
 
-The data for this project comes form an SFPD public crime dataset: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783 
+
 
