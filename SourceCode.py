@@ -5,7 +5,7 @@ from scipy.stats import gaussian_kde
 import folium
 from folium.plugins import HeatMap
 
-autoBurglaryData = pd.read_csv()
+autoBurglaryData = pd.read_csv()#<-- INSERT DATASET PATH LOCATION(LOOK AT DATASETDOWNLOAD.md)
 autoBurglaryData.sort_values(by=['Incident Date'], inplace=True)
 
 CleanedData = pd.DataFrame()
